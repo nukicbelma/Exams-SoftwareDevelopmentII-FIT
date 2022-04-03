@@ -1,4 +1,4 @@
-# Exams_SoftwareDevII-FITUNMO
+# Exams-SoftwareDevII-FITUNMO
 Template of project app 'eProdaja' and solution for the same exam(s).
 
 * GIT COMMANDS: https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
